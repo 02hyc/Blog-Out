@@ -153,7 +153,7 @@ Pacman -S networkmanager
 
 首先是配置 host
 
-![](/images/static/A7drb7aawo5DEnxBpQacJUjNnzh.png)
+![](https://box.nju.edu.cn/f/6b79652f10b5485eb975/?dl=1)
 
 安装 EFI 启动管理器
 
