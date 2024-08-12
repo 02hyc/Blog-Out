@@ -2,9 +2,9 @@
 {%- assign min_read = site.data.text[site.locale].min_read | default: 'min read' -%}
 
 {% if entry %}
-  {% assign words = entry.content | strip_html | number_of_words %}
+  {% assign words = entry.content | strip_html | size %}
 {% else %}
-  {% assign words = page.content | strip_html | number_of_words %}
+  {% assign words = page.content | strip_html | size %}
 {% endif %}
 
 <span class="read-time">
