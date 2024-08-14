@@ -5,7 +5,6 @@ categories:
 tags:
   - Evolution, Computational Models
 ---
-
 ## Evolutionary Algorithm
 
 ### Representation
@@ -45,8 +44,7 @@ Consisting of some SUs and some RUs
 ![](https://yukino13.oss-cn-hangzhou.aliyuncs.com/blog/202408141300709.png)
 
 ###### SU —— Structural Units
-
-$\bar{x} = (x_1, x_2, x_3, x_4, x_5)  $
+$\bar{x} = (x_1, x_2, x_3, x_4, x_5)$
 
 $x_1$
 determine the action type t
