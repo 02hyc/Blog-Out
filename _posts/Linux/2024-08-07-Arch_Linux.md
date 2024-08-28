@@ -4,7 +4,9 @@ categories:
   - Arch Linux
 tags:
   - Arch Linux, VMWare Workstation Pro
+toc: true
 ---
+
 >再建Arch Linux
 
 ## 和 Arch Linux 的渊源纠葛

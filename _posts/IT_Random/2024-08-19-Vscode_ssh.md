@@ -4,6 +4,7 @@ categories:
   - Coding
 tags:
   - VS Code, ssh remote
+toc: true
 ---
 
 >记一次Vs Code ssh remote连接失败
