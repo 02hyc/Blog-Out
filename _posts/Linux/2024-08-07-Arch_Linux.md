@@ -5,7 +5,7 @@ categories:
 tags:
   - Arch Linux, VMWare Workstation Pro
 ---
->中文标题：再建Arch Linux
+>再建Arch Linux
 
 ## 和 Arch Linux 的渊源纠葛
 
