@@ -20,8 +20,8 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Yukino's Blog"
 description: "Random thoughts and ideas"
-baseurl: "/Blog.github.io" # the subpath of your site, e.g. "/blog"
-url: "https://02hyc.github.io/Blog.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/Blog" # the subpath of your site, e.g. "/blog"
+url: "https://02hyc.github.io/Blog" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/icon.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
