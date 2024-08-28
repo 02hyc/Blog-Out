@@ -6,6 +6,8 @@ tags:
   - Jekyll, MathJax, LLMs
 ---
 
+>中文标题：记一次MathJax渲染失败
+
 上传了前一篇博客后，我像往常一样打开网站，却发现这篇文章中的数学公式都没有在网页上正确的渲染出来，怪异的符号在屏幕上扭曲，让我感到有点难堪，于是我第一时间检查了我 fork 的原仓库中的 issue，里面并没有太多关于公式渲染的内容。
 
 印象中，[fork 的原仓库](https://github.com/mmistakes/so-simple-theme)中，是有一篇 example post 讲解了关于网页内数学公式的渲染问题的，于是查看了那篇[示例说明](https://github.com/mmistakes/so-simple-theme/blob/master/docs/_posts/2015-08-10-mathjax-example.md)，里面只对 config 部分的配置做了说明：

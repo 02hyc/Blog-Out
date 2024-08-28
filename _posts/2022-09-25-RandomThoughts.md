@@ -1,10 +1,11 @@
 ---
-title: "忽然想到"
+title: "Thoughts in bed"
 categories:
   - Memory
 tags:
   - High School Education
 ---
+>中文标题：忽然想到
 
 近来少眠，自周一看了场马德里德比以来，作息到现在还未调整。生物钟偏离着北京时间，似乎没有回转的迹象。躺在床上，身子是倦了，但我的精神意志却在疲倦的身体中保持着清醒，胡乱地想象着杂七杂八的事情。
 

@@ -1,10 +1,11 @@
 ---
-title: "再建 Arch Linux"
+title: "Reinstall Arch Linux"
 categories:
   - Arch Linux
 tags:
   - Arch Linux, VMWare Workstation Pro
 ---
+>中文标题：再建Arch Linux
 
 ## 和 Arch Linux 的渊源纠葛
 
