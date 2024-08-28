@@ -1,4 +1,14 @@
-<!-- vscode-markdown-toc -->
+---
+title: "Reinstall Arch Linux"
+categories:
+  - Arch Linux
+tags:
+  - Arch Linux, VMWare Workstation Pro
+toc: true
+---
+
+>再建Arch Linux
+
 * 1. [和 Arch Linux 的渊源纠葛](#ArchLinux)
 * 2. [动机](#)
 * 3. [流程](#-1)
@@ -19,23 +29,7 @@
 		* 3.4.11. [退出 arch-chroot 并重启](#arch-chroot-1)
 		* 3.4.12. [尝试挣扎 做了一些官方教程中没有的步骤](#-1)
 * 4. [总结](#-1)
-
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
 {:toc}
----
-title: "Reinstall Arch Linux"
-categories:
-  - Arch Linux
-tags:
-  - Arch Linux, VMWare Workstation Pro
-toc: true
----
-
->再建Arch Linux
 
 
 
