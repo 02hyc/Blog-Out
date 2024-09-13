@@ -7,7 +7,8 @@ tags:
 toc: true
 ---
 
->记一次Vs Code ssh remote连接失败
+# 记一次Vs Code ssh remote连接失败
+## VS Code ssh remote failed to start
 
 事情是这样的，我平日里一直会使用 vscode 连接学校平台提供的远程服务器进行开发，在使用 ssh remote 时输入要连接的 ip 地址加端口号，配置文件就会自动保存在 username/.ssh 文件夹下的 config 中。
 
