@@ -10,21 +10,22 @@ tags:
 
 ## Muv-Luv 系列
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=26142242&auto=1&height=66"</iframe>
+{% include muv-luv.html %}
 
-> 我做了个梦
->
-> 在梦里，人们不知道和平的意义，无忧无虑地生活着......
->
-> ......
->
-> 人类不会输
->
-> 绝对不会输
->
-> 因为有我在
->
-> 因为...有我在
+
+我做了个梦
+
+在梦里，人们不知道和平的意义，无忧无虑地生活着......
+
+......
+
+人类不会输
+
+绝对不会输
+
+因为有我在
+
+因为...有我在
 
 | 游戏名   | Muv-Luv Extra  | Muv-Luv Unlimited | Muv-Luv Alternative |
 | -------- | -------------- | ----------------- | ------------------- |
